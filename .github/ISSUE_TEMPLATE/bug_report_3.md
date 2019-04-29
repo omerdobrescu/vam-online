@@ -1,8 +1,8 @@
 ---
-name: Bug Report 1
+name: Bug Report 3
 about: For a new bug you found.
 title: 'What does this prevent us from doing?'
-labels:  🐛 hello, 🤔 Unknown: test, bug
+labels:  🐛 hello, 🤔 Unknown\\: test, bug
 assignees: ''
 
 ---
