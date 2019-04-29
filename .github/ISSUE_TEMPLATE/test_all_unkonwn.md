@@ -1,3 +1,12 @@
+---
+name: Bug Report 1
+about: For a new bug you found.
+title: 'What does this prevent us from doing?'
+
+---
+
+
+
 **Bug Description - _what happened? Be brief_**
 
 **Steps To Reproduce Bug- _how did it happen?_**
