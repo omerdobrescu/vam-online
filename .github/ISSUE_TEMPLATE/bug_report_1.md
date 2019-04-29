@@ -1,12 +1,11 @@
 ---
-name: Bug Report 1
+name: Bug Report 0
 about: For a new bug you found.
 title: 'What does this prevent us from doing?'
-labels:  🐛 hello,🤔 Unknown
+labels:  🐛 hello, 🤔 Unknown: test, bug
+assignees: ''
 
 ---
-
-
 
 **Bug Description - _what happened? Be brief_**
 
