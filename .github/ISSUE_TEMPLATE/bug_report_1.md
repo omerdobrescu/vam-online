@@ -2,7 +2,7 @@
 name: Bug Report 1
 about: For a new bug you found.
 title: 'What does this prevent us from doing?'
-label: 'testlabel'
+labels: testlabel
 
 ---
 
