@@ -2,7 +2,7 @@
 name: Bug Report 9
 about: For a new bug you found.
 title: 'What does this prevent us from doing?'
-labels: 'Bug','Unknown Severity'
+labels: Bug, Unknown Severity
 assignees: ''
 
 ---
